@@ -23,7 +23,7 @@ Example:
 
 ## Arduino txt file
 
-You can read the GPS data from the Arduino on the pi by creating a txt file in the terminal such as 'arduinogps.py' and execute it (python3)
+You can read the GPS data from the Arduino on the pi by creating a txt file in the terminal such as `arduinogps.py` and execute it (python3)
 
 ## Requirements
 
