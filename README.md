@@ -6,7 +6,7 @@ What this project does is simply read through the GPS waypoints from a txt file 
 
 - Upload Arduino GPS code to Arduino Uno.
 - Connect Arduino to Go1 onboard computer.
-- Build and run `main.cpp` on the Go1 onboard computer.
+- Build and run `example_walk.cpp` on the Go1 onboard computer.
 - Place `waypoints.txt` in the same folder.
 
 ## Waypoints Format
