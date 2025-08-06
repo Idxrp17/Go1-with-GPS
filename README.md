@@ -16,7 +16,9 @@ Each line in the waypoints.txt file has numbers separated by a comma. These repr
 Example:
 
 -3.0,5.0
+
 0.5,2.0
+
 2.0,-4.0
 
 ## Tester
