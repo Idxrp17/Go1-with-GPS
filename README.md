@@ -21,9 +21,9 @@ Example:
 
 2.0,-4.0
 
-## Tester
+## Arduino txt file
 
-To make sure the GPS data gets received on the Go1's onboard pi, you can run a txt file to see the x,y (lat, lon) coordinates, sat #, speed, etc. 
+You can read the GPS data from the Arduino on the pi by creating a txt file in the terminal such as 'arduinogps.py' and execute it (python3)
 
 ## Requirements
 
