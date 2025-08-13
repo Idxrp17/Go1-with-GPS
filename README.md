@@ -12,10 +12,11 @@ What this project does is simply read through the GPS waypoints from a txt file 
 - Anker Ultra Slim 4-Port USB 3.0 Data Hub (or any usb to either 2-3 usb hub)
 
 
-## Setup
-- Connect Neo-M8N to Arduino board
-i.   
+## Setup GPS to Arduino Board
+- Connect Neo-M8N to Arduino board: The Vcc on GPS goes to pin 5V on board, TX on GPS goes to pin 4, RX goes to pin 3, and GND goes to GND      
 
+## Testing/Setting up Arduino IDE with GPS
+- 
 
 
 ## Waypoints Format
