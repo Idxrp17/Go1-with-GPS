@@ -1,3 +1,6 @@
+// This is what the code in the Arduino IDE should look like
+
+
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 
