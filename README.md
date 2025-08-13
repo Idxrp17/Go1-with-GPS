@@ -14,7 +14,7 @@ What this project does is simply read through the GPS waypoints from a txt file 
 
 ## Setup
 - Connect Neo-M8N to Arduino board
-- 1. 
+  1. 
 
 
 
