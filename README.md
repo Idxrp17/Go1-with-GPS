@@ -2,12 +2,21 @@
 
 What this project does is simply read through the GPS waypoints from a txt file in the terminal and it commands the Unitree Go1 robot to navigate through these waypoints by using the Arduino GPS data. I am using the Ublox NEO-M8N GPS Module and connected it to the Arduino.
 
-## Setup
 
-- Upload Arduino GPS code to Arduino Uno.
-- Connect Arduino to Go1 onboard computer.
-- Build and run `example_walk.cpp` on the Go1 onboard computer.
-- Place `waypoints.txt` in the same folder.
+## Equipment
+- UBLOX NEO-M8N GPS Module with antenna
+- Arduino Uno R3 board
+- Portable Monitor - USB-C ~(5V, 3A)
+- Portable Power Bank (USB-C)
+- Female to Male Dupont Wires
+- Anker Ultra Slim 4-Port USB 3.0 Data Hub (or any usb to either 2-3 usb hub)
+
+
+## Setup
+- Connect Neo-M8N to Arduino board
+- 1. 
+
+
 
 ## Waypoints Format
 
