@@ -1,3 +1,6 @@
+# This code is written in the onboard pi terminal and works in the background before starting the robot to walk
+# It just makes sure the GPS is on and working, connecting to satellites and showing coordinates
+
 import serial
 
 # Check your port by writing this in terminal: /dev/tty/ACM*
